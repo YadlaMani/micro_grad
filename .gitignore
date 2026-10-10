@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Backups and temp files
+*.bak
+*.tmp
+
+# Graphviz renders
+*.gv
+*.gv.svg
+*.gv.png
+*.gv.pdf
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

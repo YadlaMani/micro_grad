@@ -1,0 +1,13 @@
+[project]
+name = "micro-grad"
+version = "0.1.0"
+description = "Notes and code from following Karpathy's micrograd video"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "graphviz>=0.21",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "torch>=2.14.1",
+]
