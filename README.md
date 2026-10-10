@@ -34,4 +34,4 @@ jupyter notebook micro_grad.ipynb
 - Video: https://www.youtube.com/watch?v=VMj-3S1tku0
 - micrograd repo: https://github.com/karpathy/micrograd
 - CS231n neuron notes: https://cs231n.github.io/neural-networks-1/
-# micro_grad
+
