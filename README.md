@@ -1,6 +1,6 @@
 # micrograd notes
 
-I learned how neural nets work from Andrej Karpathy's [micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0). I coded along and wrote notes as I went, so I can come back and recall it later. Hope it's helpful to anyone else learning this too.
+Code-along notes from Andrej Karpathy's [micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0) on how neural nets learn, kept for quick recall. Hopefully useful to anyone else learning it too.
 
 The code and notes are in `micro_grad.ipynb`.
 
